@@ -8,29 +8,29 @@
 
 # 👋 Hi, I'm Vansh Jain
 
-### 📊 Data Science Student • 🤖 AI/ML Enthusiast • 💻 Software Developer • 🧠 DSA Problem Solver
+### 📊 Data Science Enthusiast • 🤖 AI/ML • 💻 Software Developer • 🧠 DSA Problem Solver
 
 <br>
 
 <a href="https://www.linkedin.com/in/vansh-jain-8ba791279/">
-<img src="https://img.shields.io/badge/LinkedIn-Vansh%20Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:vanshjain19878@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Vansh_2404/">
-<img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://github.com/vanshjain198">
-<img src="https://img.shields.io/badge/GitHub-vanshjain198-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Data+Science+%7C+AI%2FML+%7C+Software+Development;Building+Real-World+Projects;500%2B+LeetCode+Problems+Solved;650%2B+Problems+Across+Platforms;Always+Learning+%26+Building+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Real-World+Projects;Exploring+AI+%26+Machine+Learning;Learning+Generative+AI;Full+Stack+Development;500%2B+LeetCode+Problems;650%2B+Problems+Across+Platforms;Always+Learning+%26+Building+%F0%9F%9A%80"/>
 
 </div>
 
@@ -40,26 +40,27 @@
 
 <div align="center">
 
-### 🎓 BTech CSE (Data Science) | Final Year
-
-**J.C. Bose University of Science and Technology, YMCA Faridabad**
+### 🚀 Building • Learning • Solving • Improving
 
 </div>
 
-I am a **Data Science student and aspiring Software Developer** passionate about building practical solutions using **Data Science, AI/ML, Full Stack Development, and DSA**.
+I'm **Vansh Jain**, a developer passionate about **Data Science, Artificial Intelligence, Full Stack Development, and Problem Solving**.
 
-- 📊 Strong foundation in **Python, SQL, C++, and Data Structures & Algorithms**
-- 🤖 Interested in **AI/ML, Generative AI, NLP, and LLM applications**
-- 💻 Experienced with **React.js, Node.js, Express.js, REST APIs, and MongoDB**
-- 📈 Interested in **Data Analysis, Visualization, and Business Insights**
-- 🧠 **500+ questions solved on LeetCode**
-- 🔥 **650+ problems solved across different coding platforms**
-- 🏆 **GATE DA 2026 Qualified**
-- 🎯 Currently preparing for **Software Development, Data Science, and AI/ML roles**
+I enjoy turning ideas into practical projects and continuously improving my understanding of software development and computer science.
+
+### 🔥 What I Do
+
+- 🤖 Build AI/ML powered applications
+- 💻 Develop full-stack web applications
+- 📊 Work with data and generate meaningful insights
+- 🧠 Solve DSA and competitive programming problems
+- ✨ Explore Generative AI and LLM applications
+- 🏗️ Learn backend development and system design
+- 🚀 Build projects to learn by doing
 
 ---
 
-# 📊 Coding & Problem Solving
+# 🧠 DSA & Problem Solving
 
 <div align="center">
 
@@ -75,7 +76,11 @@ I am a **Data Science student and aspiring Software Developer** passionate about
 
 </div>
 
-### 🧠 DSA Topics
+<br>
+
+### 📚 DSA Topics
+
+<div align="center">
 
 `Arrays` • `Strings` • `Hashing` • `Two Pointers`
 
@@ -87,67 +92,64 @@ I am a **Data Science student and aspiring Software Developer** passionate about
 
 `Recursion` • `Backtracking` • `Bit Manipulation`
 
+</div>
+
+### 🎯 Problem Solving
+
+- 🔍 Pattern recognition
+- ⚡ Time & Space optimization
+- 🧩 Breaking problems into smaller parts
+- 💻 Writing clean and efficient code
+- 🎯 Interview-oriented problem solving
+- 📈 Consistent practice
+
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming & Querying
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,r"/>
-
-<br>
-
-`C++` • `Java` • `Python` • `R` • `SQL`
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js"/>
 
 <br><br>
 
-### 🌐 Full Stack Development
+### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express"/>
-
-<br>
-
-`HTML` • `CSS` • `JavaScript` • `React.js` • `Node.js` • `Express.js`
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
 
 <br><br>
 
 ### 🗄️ Databases & Backend
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,fastapi"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,fastapi"/>
+
+<br><br>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <br>
 
-`MongoDB` • `PostgreSQL` • `MySQL` • `FastAPI` • `REST APIs`
+`Machine Learning` • `Deep Learning` • `NLP`
+
+`Generative AI` • `LLMs` • `LangChain`
 
 <br><br>
 
-### 🤖 AI / Machine Learning
+### 📊 Data & Analytics
 
-`Machine Learning` • `Deep Learning` • `NLP` • `Generative AI`
+`Pandas` • `NumPy` • `Matplotlib`
 
-`LLMs` • `LangChain` • `MLOps` • `Statistics`
-
-<br><br>
-
-### 📊 Data Science & Analytics
-
-`Pandas` • `NumPy` • `EDA` • `Data Cleaning`
-
-`Data Preprocessing` • `Data Mining` • `Big Data Analytics`
-
-`Power BI` • `Tableau` • `Advanced MS Excel`
+`Seaborn` • `Power BI` • `Tableau`
 
 <br><br>
 
 ### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
-
-<br>
-
-`Docker` • `Git` • `GitHub` • `VS Code`
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
 
 </div>
 
@@ -155,80 +157,89 @@ I am a **Data Science student and aspiring Software Developer** passionate about
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+### Turning ideas into practical and impactful software.
+
+</div>
+
+<br>
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🤖 HireReady-AI
+# 🤖 HireReady-AI
 
-**AI-powered Interview Preparation Platform**
+### AI-Powered Interview Preparation Platform
 
-Built using the **MERN Stack and Generative AI**.
+A platform designed to help candidates prepare for technical and HR interviews using AI.
 
-### ✨ Key Features
+### ✨ Features
 
 - 📄 Resume Analysis
-- 🎯 ATS Scoring
-- 📊 Skill Gap Detection
-- 🛣️ Personalized Learning Roadmaps
+- 🎯 ATS Compatibility
+- 📊 Skill Gap Analysis
+- 🛣️ Personalized Learning Roadmap
 - 🎤 AI Mock Interviews
-- 👨‍💻 Technical & HR Interview Rounds
-- 📈 Category-wise Feedback
-- 💡 Personalized Improvement Suggestions
+- 👨‍💻 Technical Interview Questions
+- 💬 HR Interview Questions
+- 🧠 AI Answer Evaluation
+- 📈 Personalized Feedback
 - 🔐 JWT Authentication
 - 📑 PDF Resume Parsing
-- 🔗 REST APIs
-- 🗄️ MongoDB Integration
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
-`React.js` `Node.js` `Express.js`
-
-`MongoDB` `GenAI` `REST APIs`
+`React.js`  
+`Node.js`  
+`Express.js`  
+`MongoDB`  
+`GenAI`
 
 <br>
 
 <a href="https://github.com/vanshjain198/HireReady-AI">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛡️ Threat-IQ
+# 🛡️ Threat-IQ
 
-**AI-powered Network Intrusion Detection System**
+### AI-Powered Network Intrusion Detection
 
-Machine learning based system for classifying network traffic as **normal or malicious**.
+A machine learning based system designed to identify and classify network traffic as normal or malicious.
 
-### ✨ Key Features
+### ✨ Features
 
 - 🔍 Network Traffic Analysis
-- 🤖 Machine Learning Classification
-- ⚡ FastAPI ML Service
+- 🤖 ML-based Classification
+- ⚡ FastAPI Backend
 - 🌲 XGBoost
 - 🌳 Random Forest
 - 🔎 Isolation Forest
+- 🚨 Threat Detection
 - 📊 Attack Classification
-- 🚨 Threat Alerts
-- 📈 Packet Statistics Dashboard
+- 📈 Monitoring Dashboard
 - 🐍 Scapy Integration
-- 🗄️ MongoDB Integration
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
-`React.js` `Node.js` `FastAPI`
-
-`Python` `Machine Learning`
-
-`Scapy` `MongoDB`
+`React.js`  
+`Node.js`  
+`FastAPI`  
+`Python`  
+`Machine Learning`  
+`MongoDB`
 
 <br>
 
 <a href="https://github.com/vanshjain198/Threat-IQ">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -240,27 +251,32 @@ Machine learning based system for classifying network traffic as **normal or mal
 
 # 📊 Customer Behavior Analysis
 
-> Data analytics project focused on extracting business insights from customer transaction data.
+### Data Analytics & Visualization Project
 
-### 🔎 What I Did
+An end-to-end data analysis project focused on understanding customer behavior and extracting useful business insights.
 
-- 🧹 Cleaned and preprocessed customer transaction data
-- 🐼 Used **Pandas and NumPy** for data analysis
-- 🗄️ Performed analysis using **SQL**
-- 🔍 Conducted **Exploratory Data Analysis**
-- 📊 Identified important business insights
-- 📈 Created interactive **Power BI dashboards**
-- 👥 Performed customer segmentation
-- 📌 Analyzed KPIs and performance
+### 🔎 Key Work
 
-### 🛠️ Tech Stack
+- 🧹 Data Cleaning
+- 🔄 Data Preprocessing
+- 🐼 Python Data Analysis
+- 🔍 Exploratory Data Analysis
+- 🗄️ SQL Analysis
+- 👥 Customer Segmentation
+- 📊 KPI Analysis
+- 📈 Power BI Dashboard
+- 💡 Business Insight Generation
 
-`Python` • `Pandas` • `NumPy` • `SQL` • `Power BI` • `EDA`
+### ⚙️ Tech Stack
+
+`Python` • `Pandas` • `NumPy`
+
+`SQL` • `Power BI` • `EDA`
 
 <br>
 
 <a href="https://github.com/vanshjain198/Customer-Behavior-Analysis">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
@@ -269,95 +285,44 @@ Machine learning based system for classifying network traffic as **normal or mal
 
 <div align="center">
 
-| 💻 Software Development | 📊 Data Science | 🤖 AI / ML | 🧠 Programming |
+| 💻 Development | 📊 Data | 🤖 AI / ML | 🧠 Problem Solving |
 |:---:|:---:|:---:|:---:|
-| React.js | Python | Machine Learning | C++ |
-| Node.js | Pandas | Deep Learning | Java |
-| Express.js | NumPy | NLP | Python |
-| REST APIs | SQL | Generative AI | SQL |
-| MongoDB | Power BI | LLMs | DSA |
-| FastAPI | Tableau | LangChain | OOPs |
+| React.js | Python | Machine Learning | DSA |
+| Node.js | Pandas | Deep Learning | Algorithms |
+| Express.js | NumPy | NLP | C++ |
+| REST APIs | SQL | Generative AI | Problem Solving |
+| MongoDB | Power BI | LLMs | Competitive Programming |
 
 </div>
 
 ---
 
-# 📚 Computer Science Fundamentals
+# 🚀 Currently Working On
 
 <div align="center">
 
-`Data Structures & Algorithms`
-
-`Object-Oriented Programming`
-
-`Database Management Systems`
-
-`Operating Systems`
-
-`Computer Networks`
-
-`Low-Level Design`
+| 💻 Software Engineering | 🤖 AI & Data |
+|:---:|:---:|
+| Full Stack Development | Machine Learning |
+| Backend Development | Generative AI |
+| REST APIs | LLM Applications |
+| System Design | Data Analysis |
+| DSA | AI Applications |
 
 </div>
 
----
+<br>
 
-# 📈 What I'm Currently Working On
-
-<div align="center">
-
-| 💻 Software Engineering | 📊 Data Science | 🤖 AI / ML |
-|:---:|:---:|:---:|
-| Full Stack Development | Data Analysis | Machine Learning |
-| Backend Development | SQL | Deep Learning |
-| REST APIs | Power BI | NLP |
-| System Design | EDA | Generative AI |
-| LLD | Data Visualization | LLMs |
-
-</div>
+- 💻 Building full-stack applications
+- 🤖 Exploring AI/ML
+- ✨ Learning Generative AI & LLMs
+- 🧠 Solving DSA problems
+- 🏗️ Improving backend & system design skills
+- 🚀 Building projects and experimenting with new technologies
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-### 🟠 500+ LeetCode Problems
-
-### 🔥 650+ Problems Across Different Platforms
-
-### 🏆 GATE DA 2026 Qualified
-
-### 💻 Multiple Full Stack & AI/ML Projects
-
-</div>
-
----
-
-# 🎓 Education
-
-### 🏫 J.C. Bose University of Science and Technology, YMCA Faridabad
-
-**B.Tech in Computer Science and Engineering (Data Science)**  
-`2023 – 2027`
-
-### 🏆 GATE DA 2026
-
-**Data Science and Artificial Intelligence — Qualified**
-
-### 📚 Senior Secondary Education
-
-**A.V. International Public School, Sirsa**  
-CBSE Class 12 — **80.2%**
-
-### 📚 Secondary Education
-
-**A.V. International Public School, Sirsa**  
-CBSE Class 10 — **93.4%**
-
----
-
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -377,11 +342,27 @@ CBSE Class 10 — **93.4%**
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanshjain198&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 Highlights
+
+<div align="center">
+
+| 🏆 | Achievement |
+|:---:|:---|
+| 🟠 | **500+ LeetCode Problems Solved** |
+| 🔥 | **650+ Problems Across Different Platforms** |
+| 🤖 | **AI-Powered Projects** |
+| 📊 | **Data Science & Analytics Projects** |
+| 💻 | **Full Stack Development Projects** |
 
 </div>
 
@@ -413,9 +394,9 @@ CBSE Class 10 — **93.4%**
 
 <div align="center">
 
-### 🚀 Learn • Build • Solve • Improve
+### 💡 Learn • Build • Solve • Improve
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my profile! ⭐**
 
 </div>
 
