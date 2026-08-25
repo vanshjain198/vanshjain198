@@ -1,9 +1,160 @@
-<h1 align="center">Hi 👋, Vansh this side.</h1>
-<h3 align="center">A software developer and aspiring data scientist.</h3>
+<h1 align="center">Hi 👋, I'm Vansh Jain</h1>
 
-- 📫 How to reach me **vanshjain19878@gmail.com**
+<h3 align="center">
+Data Science Student | AI/ML Enthusiast | Software Developer | DSA Problem Solver
+</h3>
 
+<p align="center">
+  <b>Building real-world projects • Exploring AI & GenAI • Solving DSA Problems</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+🎓 I'm a B.Tech student specializing in **Data Science**.
+
+💻 I'm interested in **Software Development, Data Science, Artificial Intelligence, Machine Learning and Generative AI**.
+
+🧠 I regularly practice **Data Structures & Algorithms** and focus on improving my problem-solving skills.
+
+🏆 Solved **500+ problems on LeetCode** and **650+ problems across multiple coding platforms**.
+
+📊 I enjoy working with data, finding meaningful insights and building data-driven applications.
+
+🚀 I also enjoy developing full-stack applications using modern technologies.
+
+🌱 Currently improving my skills in **DSA, Backend Development, Machine Learning, GenAI and System Design**.
+
+🎯 Looking for opportunities where I can apply my technical skills, solve real-world problems and continue learning.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+</p>
+
+### 📊 Data Science & Analytics
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+</p>
+
+**Tools & Technologies:**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
+`SQL` `Power BI` `PostgreSQL` `MySQL` `SQL Server`
+
+### 🤖 AI / Machine Learning
+
+`Machine Learning` `Generative AI` `NLP` `Scikit-learn` `LLM Applications`
+
+### 🗄️ Databases
+
+`MongoDB` `PostgreSQL` `MySQL` `SQL Server`
+
+### 🔧 Tools
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `Kaggle` `Postman`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 HireReady-AI
+
+An AI-powered interview preparation platform built using the **MERN stack and Generative AI**.
+
+**Features:**
+
+- 📄 Resume Analysis
+- 🎯 ATS Compatibility Scoring
+- 🧠 Skill Gap Detection
+- 🎤 AI Mock Interviews
+- 💬 Technical & HR Question Generation
+- 📊 AI-based Answer Evaluation
+- 📝 Personalized Feedback
+- 🛣️ Personalized Learning Roadmaps
+- 🔐 JWT Authentication
+- 📑 PDF Resume Parsing
+
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Generative AI` `REST APIs`
+
+---
+
+### 🛡️ Threat-IQ
+
+An AI/ML-based security project focused on identifying and analyzing potential threats.
+
+**Tech Stack:**  
+`React.js` `Node.js` `FastAPI` `Python` `Machine Learning`
+
+---
+
+### 📊 Customer Behavior Analysis
+
+An end-to-end data analytics project focused on understanding customer behavior and generating business insights.
+
+**Key Areas:**
+
+- 🧹 Data Cleaning & Preprocessing
+- 🔍 Exploratory Data Analysis
+- 🗄️ SQL Analysis
+- 📊 Power BI Dashboard
+- 📈 Business Insights & Reporting
+
+**Tech Stack:**  
+`Python` `Pandas` `NumPy` `SQL` `PostgreSQL` `Power BI`
+
+---
+
+## 🧠 DSA & Problem Solving
+
+### 🏆 Coding Achievements
+
+- 🟢 **500+ Problems Solved on LeetCode**
+- 🔥 **650+ Problems Solved Across Multiple Coding Platforms**
+- 💻 Regular practice of Data Structures & Algorithms
+- 🎯 Focused on pattern-based problem solving and interview preparation
+
+### 📚 DSA Topics
+
+`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window`
+
+`Binary Search` `Sorting` `Stack` `Queue` `Linked List`
+
+`Trees` `Graphs` `Greedy` `Dynamic Programming` `Bit Manipulation`
+
+---
+
+## 📈 What I'm Currently Learning
+
+```text
+DSA & Problem Solving
+        ↓
+Backend Development
+        ↓
+Machine Learning
+        ↓
+Generative AI
+        ↓
+System Design
